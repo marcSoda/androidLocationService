@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">LocationService</string>
+    <string name="started_title">Hello There!</string>
+    <string name="started_sub_title">
+        Nice to meet you, come join our community!
+        <br><b>Login</b> if you have already created an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+    <string name="illustration_image">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+
+    <string name="login_title">Login to Locatenator</string>
+    <string name="login_sub_title">
+        <font color="#0087D7"><b>Login</b></font> if you already have an account.
+    </string>
+    <string name="login_hint_login">Login</string>
+    <string name="login_password">Password</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="login_no_account">
+        Don\'t have an account? <font color="#0087D7"><b>Register</b></font>
+    </string>
+    <string name="register_title">Create an account</string>
+    <string name="register_sub_title">
+        <font color="#0087D7"><b>Register</b></font> to get started with the app.
+    </string>
+    <string name="register_hint_email">Email</string>
+    <string name="register_hint_login">Login</string>
+    <string name="register_hint_name">Full Name</string>
+    <string name="register_hint_password">Password</string>
+    <string name="register_hint_password_confirm">Retype Password</string>
+    <string name="register_have_account">
+        Already have an account? <font color="#0087D7"><b>Login</b></font>
+    </string>
+    <string name="interests_title">Select Your Interests</string>
+    <string name="interests_business">Business</string>
+    <string name="interests_computers">Computers</string>
+    <string name="interests_education">Education</string>
+    <string name="interests_science">Science</string>
+    <string name="btn_interest_save">Save Interests</string>
+    <string name="app_title">Locatenator</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="find_restaurant">Find Restaurant</string>
+    <string name="find_gas_station">Find Gas Station</string>
+    <string name="enter_constraints">Enter Constraints</string>
+    <string name="constraints">Constraints</string>
+    <string name="search">Search</string>
+</resources>
